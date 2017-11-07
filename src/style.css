@@ -1,0 +1,17 @@
+#root {
+  background-color: #aa80ff;
+  color: #ffff00;
+  border-radius: 10px;
+}
+
+.want {
+  text-align: center;
+  background-color: #ff4d4d;
+  margin:2em;
+}
+.one{
+  margin-right: 10px;
+}
+.two{
+  margin-left: 10px;
+}
